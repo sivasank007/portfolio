@@ -1,0 +1,64 @@
+[
+    {
+        "name": "ReactJS",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "JavaScript ",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "MaterialUI ",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Bootstrap ",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "ExpressJS ",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "NodeJS",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Redux",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    
+    {
+        "name": "HTML5 ",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3 ",
+        "level":"(Intermediate)",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    
+    {
+        "name": "MySQL",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Netlify ",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "GitHub",
+        "level":"(Basic)",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }  
+]

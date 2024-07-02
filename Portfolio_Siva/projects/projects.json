@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Food Ordering System",
+    "desc": "Fully fledged Reactjs CRUD app based on different design patterns. Built using Reactjs, expressJs, Bootstrap, MySQL, Railway, Netlify.",
+    "image": "fos",
+    "category": "web",
+    "links": {
+      "view": "https://fos-client.netlify.app/",
+      "code": "https://github.com/sivasank007/Projects/tree/main/01_Food_Ordering_System"
+    }
+  },
+  {
+    "name": "Budget Analyser",
+    "desc": "Fully fledged Reactjs CRUD app based on different design patterns. Built using Reactjs, expressJs, Bootstrap, MySQL, Railway, Netlify.",
+    "image": "ba",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/sivasank007/Projects/tree/main/02_Budget_Analyser",
+      "code": "https://github.com/sivasank007/Projects/tree/main/02_Budget_Analyser"
+    }
+  },
+  {
+    "name": "Ecommerce Design",
+    "desc": "Fully fledged ecommerce desgin based on different design patterns. Built using HTML5, CSS3, JS",
+    "image": "ecom",
+    "category": "web",
+    "links": {
+      "view": "https://clevershop-siva.netlify.app/",
+      "code": "https://github.com/sivasank007/Projects/tree/main/E_commerce"
+    }
+  }
+]
